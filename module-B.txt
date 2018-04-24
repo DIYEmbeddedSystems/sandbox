@@ -1,4 +1,7 @@
 May be used by some Module A.
+## Stubb removed while merging branch Module-B-dev into master:
+## 19:46. While developing Module A, I use a stub that emulates some of Module B's features.
 
 19:51. Now I develop module B's features.
 19:53. New features available on Module B.
+
