@@ -2,5 +2,3 @@ Requires some Module B.
 
 19:49. Now I am developing features within Module A.
 19:55. Now I add new features to Module A, still using B's stubb.
-
-Hey, this is a new line that I added erroneously.
