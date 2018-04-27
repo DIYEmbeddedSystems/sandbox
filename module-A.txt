@@ -6,3 +6,4 @@ Requires some Module B.
 After reconciliation with B, I add new features to A.
 
 Now, feature X is beeing added to module A.
+Include support for FeatureY in moduleA.
