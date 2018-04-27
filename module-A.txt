@@ -4,3 +4,5 @@ Requires some Module B.
 19:55. Now I add new features to Module A, still using B's stubb.
 
 After reconciliation with B, I add new features to A.
+
+Now, feature X is beeing added to module A.
