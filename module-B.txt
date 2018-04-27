@@ -6,3 +6,4 @@ May be used by some Module A.
 19:53. New features available on Module B.
 
 Support for FeatureX added to module B.
+Add support for FeatureY in moduleB.
